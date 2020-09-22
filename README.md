@@ -1,4 +1,8 @@
-### Hi there 👋
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/PeterouZh/count.svg" />
+</p>
 
 <!--
 **PeterouZh/PeterouZh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
