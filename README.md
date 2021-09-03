@@ -3,6 +3,15 @@
   <img src="https://profile-counter.glitch.me/PeterouZh/count.svg" />
 </p>
 
+
+```python
+def coding():
+  assert vim
+  assert emacs
+  do ide :)
+
+```
+
 <!--
 **PeterouZh/PeterouZh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
