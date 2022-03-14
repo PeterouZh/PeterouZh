@@ -12,6 +12,9 @@ def coding():
 
 ```
 
+- 🤔 I am looking for a job right now.
+- 我即将博士毕业，正在找工作，首选工作城市为深圳，请联系我通过邮箱zhoupengcv@sjtu.edu.cn或者微信 zhoupeng341453
+
 <!--
 **PeterouZh/PeterouZh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
