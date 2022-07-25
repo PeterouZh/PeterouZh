@@ -12,6 +12,18 @@ def coding():
 
 ```
 
+<details open>
+<summary>
+  Panda shape
+</summary>
+  
+![panda_shape](https://user-images.githubusercontent.com/26176709/180780767-dbe1c83e-f233-4470-8fb9-9a4f433403eb.gif)
+Created by Peng Zhou.
+</details>
+
+
+
+
 <!-- - 🤔 I am looking for a job right now. -->
 <!-- - 我即将博士毕业，正在找工作，请联系我通过邮箱zhoupengcv@sjtu.edu.cn或者微信 zhoupeng341453 -->
 
