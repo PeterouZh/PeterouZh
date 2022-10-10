@@ -14,11 +14,10 @@ def coding():
 
 <details open>
 <summary>
-  Panda shape
+  Panda shape created by my CIPS3D++.
 </summary>
   
 ![panda_shape](https://user-images.githubusercontent.com/26176709/180780767-dbe1c83e-f233-4470-8fb9-9a4f433403eb.gif)
-Created by Peng Zhou.
 </details>
 
 <details open>
