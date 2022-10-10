@@ -21,7 +21,13 @@ def coding():
 Created by Peng Zhou.
 </details>
 
-
+<details open>
+<summary>
+  This is me, created by a 3D human GAN model. 
+</summary>
+  
+![ZhouPeng](https://user-images.githubusercontent.com/26176709/194794823-58a9ae35-88a9-466d-8af3-a0f9b0abe1ad.gif)
+</details>
 
 
 <!-- - 🤔 I am looking for a job right now. -->
