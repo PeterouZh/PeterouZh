@@ -16,19 +16,19 @@ def coding():
 
 <details open>
 <summary>
-  Panda shape at 1024x1024 resolution, created by my CIPS-3D++.
+  Panda shape created by my CIPS-3D++.
 </summary>
   
 ![panda_shape](https://user-images.githubusercontent.com/26176709/180780767-dbe1c83e-f233-4470-8fb9-9a4f433403eb.gif)
 </details>
 
-<details open>
+<!-- <details open>
 <summary>
   This is me, created by my 3D human GAN model (512x1024 resolution). 
 </summary>
   
 ![ZhouPeng](https://user-images.githubusercontent.com/26176709/194794823-58a9ae35-88a9-466d-8af3-a0f9b0abe1ad.gif)
-</details>
+</details> -->
 
 
 <!-- - 🤔 I am looking for a job right now. -->
